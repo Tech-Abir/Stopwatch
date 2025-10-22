@@ -1,25 +1,16 @@
-# Stopwatch Web App
+# Auto-generated README (Round 1)
 
-## Overview
-A lightweight stopwatch built with plain HTML, CSS, and JavaScript. It supports starting, pausing, and resetting the timer. The display shows hours, minutes, seconds, and hundredths for smooth, accurate timing.
+**Project brief:** Create a simple stopwatch web app that can start, pause, and reset the timer. Use plain HTML, CSS, and JavaScript.
 
-Features:
-- Start, Pause, and Reset controls
-- High-precision timing via requestAnimationFrame/performance.now
-- Keyboard shortcuts: Space (Start/Pause), R (Reset)
-- Accessible (role="timer", aria-live) and responsive layout
+**Attachments:**
+
+
+**Checks to meet:**
+
 
 ## Setup
-No build tools or dependencies are required.
+1. Open `index.html` in a browser.
+2. No build steps required.
 
-Steps:
-1. Download or copy the `index.html` file.
-2. Open `index.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
-
-## Usage
-- Click Start to begin timing.
-- Click Pause to pause the stopwatch.
-- Click Reset to clear the time and stop the stopwatch.
-- Keyboard shortcuts:
-  - Space: Start/Pause toggle
-  - R: Reset
+## Notes
+This README was generated as a fallback (AI Pipe did not return an explicit README).
